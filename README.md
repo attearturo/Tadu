@@ -37,6 +37,8 @@ First at all, you will need to run the server. In this case I used XAMPP for bui
 Open the server in the development mode.<br>
 Check [http://localhost:8000](http://localhost:48000) to view it in the browser.
 
+Cali, Colombia.
+
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
